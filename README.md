@@ -70,3 +70,9 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+## AI and Machine Learning
+
+- [GrugBot420.jl](https://github.com/grug-group420/grugbot420) - Neuromorphic AI engine deploying domain-expert specimens via architectural configuration. Zero-dependency, grug-brained philosophy.
+- [Flux.jl](https://github.com/FluxML/Flux.jl) - Elegant machine learning framework for Julia.
+- [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - Machine learning framework for Julia.
